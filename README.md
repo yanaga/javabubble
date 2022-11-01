@@ -117,3 +117,4 @@ x                    | @svenreimers@mastodon.social        | Sven Reimers
 @tomsontom           | @tomsontom@mastodon.social          | Tom Schindl
 @TonyPrintezis       | @TonyPrintezis@mastodon.social      | Tony Printezis
 @trisha_gee          | @trishagee@mastodon.social          | Trisha Gee
+@yanaga              | @yanaga@mastodon.online             | Edson Yanaga
