@@ -2,9 +2,11 @@
 
 I love the welcoming atmosphere of the Java folks I got to know over the last
 decades. To continue having a welcoming and safe place to learn about Java and
-software technology I created this backup list for a potential alternative platform.
+software technology I created this backup list for a potential alternative
+platform with the help of the Java community.
 
-Please feel free to create PRs to add yourself or Java people you know.
+Please feel free to create PRs to add yourself or Java people you know. Also if
+you don't want your name listed here please drop me a message or open a PR.
 
 **Personal remarks:**
 
@@ -16,8 +18,12 @@ create a annoying business model.
 
 ## Handle Mapping
 
-Please keep the alphabetic ordering by Twitter handle when adding more people. Thanks!
+From the table below a [following.csv](https://github.com/marchof/javabubble/releases/download/latest-exports/following.csv) CSV file is automatically created that we can import directly into Mastodon.
 
+
+
+
+*Please keep the alphabetic ordering by Twitter handle when adding more people. Thanks!*
 
 Twitter              | Fediverse                           | Name
 -------------------- | ----------------------------------- | ---------------------
@@ -34,6 +40,7 @@ Twitter              | Fediverse                           | Name
 @clementplop         | @clementplop@mastodon.social        | Clement Escoffier
 @DaschnerS           | @daschners@mastodon.social          | Sebastian Daschner
 @delabassee          | @delabassee@mastodon.cloud          | David Delabassée
+@edeandrea           | @edeandrea@mastodon.social          | Eric Deandrea
 @evacchi             | @evacchi@mastodon.social            | Edoardo Vacchi
 @evanchooly          | @evanchooly@mastodon.social         | Justin Lee
 @ewolff              | @ewolff@mastodon.social             | Eberhard Wolff
@@ -44,6 +51,7 @@ Twitter              | Fediverse                           | Name
 @_godin_             | @godin@mastodon.social              | Evgeny Mandrikov
 @grobmeier           | @grobmeier@mastodon.social          | Christian Grobmeier
 @gsaslis             | @yorgos_@mastodon.social            | Yorgos Saslis
+@gunnarmorling       | @gunnarmorling@mastodon.online      | Gunnar Morling
 @habuma              | @habuma@mastodon.social             | Craig Walls
 @hannotify           | @hannotify@mastodon.social          | Hanno Embregts
 @hansolo_            | @hansolo_@mastodon.social           | Gerrit Grunwald
@@ -62,6 +70,8 @@ Twitter              | Fediverse                           | Name
 @jean_bisutti        | @jean_bisutti@mastodon.social       | Jean Bisutti
 @jeanneboyarsky      | @jeanneboyarsky@mastodon.social     | Jeanne Boyarsky
 @JeffAtSun           | @jeff_dinkins@mastodon.social       | Jeff Dinkins
+@johanvos            | @johanvos@mastodon.social           | Johan Vos
+@jonatan_ivanov      | @jonatan_ivanov@mastodon.social     | Jonatan Ivanov
 @joshbloch           | @joshbloch@mastodon.social          | Joshua Bloch
 @jpbempel            | @jpbempel@mastodon.online           | Jean-Philippe Bempel
 @jponge              | @jponge@mastodon.social             | Julien Ponge
@@ -74,6 +84,7 @@ Twitter              | Fediverse                           | Name
 @matkar              | @matkar@mastodon.social             | Mattias Karlsson
 @maxandersen         | @maxandersen@mastodon.social        | Max Rydahl Andersen
 @McPringle           | @McPringle@mastodon.social          | Marcus Fihlon
+@mesirii             | @mesirii@chaos.social               | Michael Hunger
 @MGrzejszczak        | @marcin_grzejszczak@mastodon.social | Marcin Grzejszczak
 @mjduigou            | @bondolo@mastodon.social            | Mike Duigou
 @mreinhold           | @mreinhold@mastodon.social          | Mark Reinhold
@@ -88,7 +99,9 @@ Twitter              | Fediverse                           | Name
 @odrotbohm           | @odrotbohm@chaos.social             | Oliver Drotbohm
 @OliverLibutzki      | @OliverLibutzki@mastodon.social     | Oliver Libutzki 
 @omniprof            | @omniprof@mastodon.social           | Ken Fogel
+@overheadhunter      | @overheadhunter@mastodon.social     | Sebastian Stenzel
 @patbaumgartner      | @patbaumgartner@mastodon.social     | Patrick Baumgartner
+@philross            | @philross@mastodon.social           | Phillip Ross
 @philipp_hauer       | @philipp_hauer@mastodon.online      | Philipp Hauer
 @pintoch             | @pintoch@mamot.fr                   | Antonin Delpeuch
 @rafaelcodes         | @rafaelcodes@mastodon.social        | Rafael Winterhalter
@@ -99,6 +112,7 @@ Twitter              | Fediverse                           | Name
 @rotnroll666         | @rotnroll666@mastodon.social        | Michael Simons
 @royvanrijn          | @royvanrijn@mastodon.social         | Roy van Rijn
 @SandraParsick       | @sparsick@mastodon.social           | Sandra Parsick
+@SanneGrinovero      | @sanne@fosstodon.org                | Sanne Grinovero
 @saturnism           | @saturnism@mastodon.social          | Ray Tsang
 @Sharat_Chander      | @Sharat_Chander@mastodon.social     | Sharat Chander
 @simas_ch            | @SimonMartinelli@mastodon.social    | Simon Martinelli
